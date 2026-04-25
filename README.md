@@ -1,2 +1,2 @@
-# Jays-Hacker-Card
-A hacker card following the hack club tutorial because I currently don't have one.
+# ZeusyBoy Hacker Card
+An NFC business card because it's cool I guess.
