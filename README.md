@@ -3,7 +3,7 @@ An NFC business card because it's cool I guess.
 Made for Hack Club Fallout
 
 ## Zine
-In progress.
+![Zine](IMG/HackerCard-Zine.png)
 
 ## What does it do?
 It's a business card which allows me to scan it on any phone and have my website/github appear, and it lights up and LED.
